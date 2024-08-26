@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue May 17 18:21:36 2022
+# Process ID: 384
+# Current directory: C:/Users/Bodi/Desktop/AC/Dice_Game/test_env.runs/synth_1
+# Command line: vivado.exe -log test_env.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source test_env.tcl
+# Log file: C:/Users/Bodi/Desktop/AC/Dice_Game/test_env.runs/synth_1/test_env.vds
+# Journal file: C:/Users/Bodi/Desktop/AC/Dice_Game/test_env.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source test_env.tcl -notrace
